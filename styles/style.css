@@ -1,0 +1,130 @@
+.navbar.fixed-top.navbar-expand-sm.bg-light{
+      justify-content: flex-end;
+      box-shadow: 1px 3px 10px rgb(239, 235, 235);
+      
+}
+.navbar-brand.mb-0.h1{
+    font-size: 18pt;
+}
+.navbar-nav{
+    padding-right: 25%;
+}
+
+.container-main-banner{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    justify-content: center;
+}
+.mainbanner-title{
+    color:#00b39b; 
+    font-family: Work Sans,Arial,sans-serif;
+    font-size: 34px;
+}
+.mainbanner-box{
+    background-color: transparent;
+    width:500px;
+    height: 150px;
+    padding-right: 30px;
+}
+
+.flexbox-container{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+.flexbox-item{
+  border: 1px;
+  background-color: gray;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+  border-radius: 15px;
+
+}
+
+.flexbox-item-box1{
+    width:310px;
+    height: 350px;
+    background-color: aquamarine;
+    
+}
+.flexbox-item-box2{
+    width:310px;
+    height: 350px;
+    background-color: aqua;
+}
+.flexbox-item-box3{
+    width:310px;
+    height: 350px;
+    background-color: #00b39b; 
+    ;
+}
+.flexbox-item-box4{
+    width:300px;
+    height: 200px;
+    background-color: transparent;
+}
+.jumbotron.jumbotron-1{
+    height: 750px;
+    background-color: #e5faf8;
+    display: flex;
+    justify-content: center;
+
+}
+.jumbotron-itembox1{
+    background-color: wheat;
+    width: 470px;
+    height: 180px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.jumbotron-container1{
+    background-color: transparent;
+    width: 300px;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.jumbotron-container2{
+    background-color: transparent;
+    width:300px;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    margin-left: 10px;
+    justify-content: start;
+}
+.jumbotron-container-boxitem{
+    width: 280px;
+    height:280px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 1px 3px 10px rgb(239, 235, 235);
+    opacity: 75%;
+   
+}
+
+
+
+.flex-container1{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 78px;
+    background-color: wheat;
+}
+.flex-container2{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 78px;
+    background-color: wheat;
+}
